@@ -1,0 +1,7 @@
+{
+  "name": "SHT2x-Arduino-Library",
+  "author": "misenso>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "SHT2x-spark Library"
+}
